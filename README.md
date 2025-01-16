@@ -40,6 +40,6 @@
     <td align="center"><a href="https://github.com/whtndls"><b>조수인</b></a><br /></td>
     <td align="center"><a href="https://github.com/dojin8351"><b>김도현</b></a><br /></td>
     <td align="center"><a href="https://github.com/dbwjdvva"><b>김유정</b></a><br /></td>
-    <td align="center"><a href="https://github.com/"Namhyeonug><b>남현욱</b></a><br /></td>
+    <td align="center"><a href="https://github.com/Namhyeonug"><b>남현욱</b></a><br /></td>
   </tr>
 </table></br>
